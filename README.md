@@ -1,27 +1,54 @@
-# GamesRoom
+# Game Collection
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+![Game Collection Banner](./assets/banner.png)
 
-## Development server
+Welcome to our Game Collection, a curated set of various exciting games. It is designed to provide an excellent gaming experience. Each game in this collection is unique and fun in its own way.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Table of Contents
 
-## Code scaffolding
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Games in the Collection](#games-in-the-collection)
+- [Contribute](#contribute)
+- [License](#license)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Introduction
 
-## Build
+Our Game Collection is a one-stop platform for all your gaming needs. Here, you'll find a wide range of games from different genres, each offering an immersive experience and unique gameplay. This is a community-led project, so feel free to contribute your favourite games!
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Installation
 
-## Running unit tests
+1. Clone this repository to your local machine using `git clone https://github.com/yourusername/game-collection.git`
+2. Navigate to the project directory: `cd game-collection`
+3. Install the required dependencies: `[your install instructions here]`
+4. Run the project: `[your run instructions here]`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Installation Screenshot](./assets/installation.png)
 
-## Running end-to-end tests
+## How to Play
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Playing games from our collection is as easy as pie! Just follow these simple steps:
+1. Choose a game from the game list.
+2. Follow the specific instructions for that game.
+3. Enjoy the game!
 
-## Further help
+## Games in the Collection
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Below is a list of the games currently in the collection. Each game has its own set of rules and controls, so make sure to read them before you start playing.
+
+1. **[Game Name 1](./Game1/README.md)** - Brief Description of Game 1
+
+![Game 1 Screenshot](./assets/game1.png)
+
+> Here you can add more games with screenshots and descriptions...
+
+## Contribute
+
+We welcome and appreciate any contributions to the Game Collection! If you have a game that you'd like to add to the collection, please submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+![License Screenshot](./assets/license.png)
